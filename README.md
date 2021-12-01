@@ -24,6 +24,12 @@
   <a href="https://www.linkedin.com/in/ramon-vinicius-marqueviski-a4ba801a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  #### Repositórios em desenvolvimento
+  #### 🚧Repositórios em desenvolvimento🚧
+	* <a target="_blank" href="https://github.com/RamonMarqueviski/ApiGestaoFinanceira">Api de gestão financeira</a>
+	
   
-  #### Repositórios já finalizados
+  #### ✔️Repositórios já finalizados✔️
+  
+  * <a target="_blank" href="https://github.com/RamonMarqueviski/Site-e-commerce">Site E-Commerce</a>
+	* <a target="_blank" href="https://github.com/RamonMarqueviski/ProcurarPalavras">ProcurarPalavras</a>
+	
