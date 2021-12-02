@@ -25,11 +25,11 @@
 </div>
   
   #### 🚧Repositórios em desenvolvimento🚧
-	* <a target="_blank" href="https://github.com/RamonMarqueviski/ApiGestaoFinanceira">Api de gestão financeira</a>
+  * <a target="_blank" href="https://github.com/RamonMarqueviski/ApiGestaoFinanceira">Api de gestão financeira</a>
 	
   
   #### ✔️Repositórios já finalizados✔️
   
   * <a target="_blank" href="https://github.com/RamonMarqueviski/Site-e-commerce">Site E-Commerce</a>
-	* <a target="_blank" href="https://github.com/RamonMarqueviski/ProcurarPalavras">ProcurarPalavras</a>
+  * <a target="_blank" href="https://github.com/RamonMarqueviski/ProcurarPalavras">ProcurarPalavras</a>
 	
